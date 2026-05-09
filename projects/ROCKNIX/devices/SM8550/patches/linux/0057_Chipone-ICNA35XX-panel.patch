@@ -614,7 +614,7 @@ index 000000000000..fe4742678c00
 +MODULE_AUTHOR("Teguh Sobirin <teguh@sobir.in>");
 +MODULE_DESCRIPTION("DRM driver for Chipone ICNA35XX based MIPI DSI panels");
 +MODULE_LICENSE("GPL");
-\ No newline at end of file
+
 -- 
 2.34.1
 
